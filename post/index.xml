@@ -6,10 +6,38 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2020 15:14:51 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2020 16:32:22 +0800</lastBuildDate>
     
 	<atom:link href="https://billwing2.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>诗歌</title>
+      <link>https://billwing2.github.io/post/%E8%AF%97%E6%AD%8C/</link>
+      <pubDate>Tue, 10 Mar 2020 16:32:22 +0800</pubDate>
+      
+      <guid>https://billwing2.github.io/post/%E8%AF%97%E6%AD%8C/</guid>
+      <description>假如生活欺骗了你 &amp;ndash;普希金的诗歌 英语译文
+If by Life You Were Deceived
+If by life you were deceived，
+Don&amp;rsquo;t be dismal，don&amp;rsquo;t be wild！
+In the day of grief，be mild：
+Merry days will come，believe.
+Heart is living in tomorrow；
+Present is dejected here：
+In a moment，passes sorrow；
+That which passes will be dear.
+汉语译文
+假如生活欺骗了你
+假如生活欺骗了你，
+不要悲伤，不要心急！
+忧郁的日子里须要镇静：
+相信吧，快乐的日子将会来临！
+心儿永远向往着未来；
+现在却常是忧郁。
+一切都是瞬息，一切都将会过去；
+而那过去了的，就会成为亲切的怀恋。</description>
+    </item>
     
     <item>
       <title>UseGit</title>
@@ -26,7 +54,27 @@
       <pubDate>Sun, 08 Mar 2020 19:52:51 +0800</pubDate>
       
       <guid>https://billwing2.github.io/post/blog/</guid>
-      <description>Hello World</description>
+      <description>Hello World!
+假如生活欺骗了你 &amp;ndash;普希金的诗歌 英语译文
+If by Life You Were Deceived
+If by life you were deceived，
+Don&amp;rsquo;t be dismal，don&amp;rsquo;t be wild！
+In the day of grief，be mild：
+Merry days will come，believe.
+Heart is living in tomorrow；
+Present is dejected here：
+In a moment，passes sorrow；
+That which passes will be dear.
+汉语译文
+假如生活欺骗了你
+假如生活欺骗了你，
+不要悲伤，不要心急！
+忧郁的日子里须要镇静：
+相信吧，快乐的日子将会来临！
+心儿永远向往着未来；
+现在却常是忧郁。
+一切都是瞬息，一切都将会过去；
+而那过去了的，就会成为亲切的怀恋。</description>
     </item>
     
   </channel>
