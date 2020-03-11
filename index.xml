@@ -6,10 +6,19 @@
     <description>Recent content on Bill Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2020 19:00:15 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 19:14:49 +0800</lastBuildDate>
     
 	<atom:link href="https://billwing2.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>博客还在建设中</title>
+      <link>https://billwing2.github.io/post/%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E5%BB%BA%E8%AE%BE%E4%B8%AD/</link>
+      <pubDate>Wed, 11 Mar 2020 19:14:49 +0800</pubDate>
+      
+      <guid>https://billwing2.github.io/post/%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E5%BB%BA%E8%AE%BE%E4%B8%AD/</guid>
+      <description>本博客还在建设中,未来将添加更好的功能,欢迎浏览!</description>
+    </item>
     
     <item>
       <title>星际迷航2</title>
@@ -17,7 +26,7 @@
       <pubDate>Wed, 11 Mar 2020 19:00:15 +0800</pubDate>
       
       <guid>https://billwing2.github.io/post/%E6%98%9F%E9%99%85%E8%BF%B7%E8%88%AA2/</guid>
-      <description></description>
+      <description>本次图片展示采用base64转码展示.</description>
     </item>
     
     <item>
@@ -26,7 +35,7 @@
       <pubDate>Wed, 11 Mar 2020 18:06:46 +0800</pubDate>
       
       <guid>https://billwing2.github.io/post/%E6%98%9F%E9%99%85%E8%BF%B7%E8%88%AA/</guid>
-      <description></description>
+      <description>本次图片展示用的是微信公众号Markdown图片助手,以网页形式显示图片.</description>
     </item>
     
     <item>
