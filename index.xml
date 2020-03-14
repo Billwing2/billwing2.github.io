@@ -6,10 +6,31 @@
     <description>Recent content on Bill Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2020 19:15:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 17:48:12 +0800</lastBuildDate>
     
 	<atom:link href="https://billwing2.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关于hugo博客的命令</title>
+      <link>https://billwing2.github.io/post/%E5%85%B3%E4%BA%8Ehugo%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Sat, 14 Mar 2020 17:48:12 +0800</pubDate>
+      
+      <guid>https://billwing2.github.io/post/%E5%85%B3%E4%BA%8Ehugo%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%91%BD%E4%BB%A4/</guid>
+      <description>1.编辑好文章或功能后在根目录(我的是blog)启动本地博客(即用cmd打开命令提示符,命令为cd 文件名/,注:返回上一级cd..),用于本地测试:
+hugo server -t hugo-theme-cleanwhite &amp;ndash;buildDrafts;
+注:我的主题为hugo-theme-cleanwhite;
+网页打开localhost:1313,打开本地博客审查.
+2.以下建立文章(在根目录blog):
+(1)hugo new post/文章名.md
+(2)hugo &amp;ndash;theme=hugo-theme-cleanwhite &amp;ndash;buildDrafts &amp;ndash;baseUrl=&amp;quot;https://billwing2.github.io/&amp;quot;(在根目录blog)(用于更新)
+3.发布文章(部署到github,hugo博客):
+cd public/ (cmd打开public文件夹)
+git add .
+git commit -m &amp;ldquo;new blog added&amp;rdquo;
+git push origin master
+大功告成:)</description>
+    </item>
     
     <item>
       <title>致敬特斯拉</title>
